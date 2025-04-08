@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException , responses
+from fastapi import APIRouter, responses
 from config.database import db
 from schemas.users import userEntity, usersEntity
 from models.users import Userin

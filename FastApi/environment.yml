@@ -1,4 +1,4 @@
-name: Fastapi-mongo
+ name: Fastapi-mongo
 channels:
   - defaults
 dependencies:
