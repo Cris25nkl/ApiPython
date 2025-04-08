@@ -8,7 +8,6 @@ load_dotenv()
 
 # URI de conexión a MongoDB Atlas (Reemplaza con tus credenciales)
 MONGO_URI = os.getenv("MONGO_URI")
-print(MONGO_URI)
 # Nombre de la base de datos
 DATABASE_NAME = os.getenv("MONGO_NAME")
 
